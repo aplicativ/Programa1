@@ -11,5 +11,13 @@ import java.util.Scanner;
   num=lee.nextFloat();
   System.out.println("Ingrese el denominador 2");
   den=lee.nextFloat();
+  System.out.println("Ingrese el numerador");
+  num=lee.nextFloat();
+  System.out.println("Ingrese el denominador");
+  den=lee.nextFloat();
+  System.out.println("Ingrese el numerador 3");
+  num=lee.nextFloat();
+  System.out.println("Ingrese el denominador 3");
+  den=lee.nextFloat();
 }
 }
